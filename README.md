@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=030srinivas&label=Profile%20views&color=0e75b6&style=flat" alt="030srinivas" /> </p>
 
-- 👨‍💻 All of my projects are available at [portfolio ](portfolio https://portfolio-ten-dusky-39.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio ]((https://portfolio-are406v2m-030srinivas-projects.vercel.app/))
 
 - 📫 How to reach me **030shrinivasr@gmail.com**
 
